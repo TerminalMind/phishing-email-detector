@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,roc_auc,pr_auc
+Complement Naive Bayes,1.0,1.0,1.0,1.0,1.0,1.0
+Linear SVM,1.0,1.0,1.0,1.0,1.0,0.9999999999999999
+Logistic Regression,0.9984177215189873,0.9968253968253968,1.0,0.9984101748807631,1.0,0.9999999999999999
