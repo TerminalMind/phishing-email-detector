@@ -7,12 +7,10 @@ The project uses **Python and Scikit-learn** to train a classification model on 
 ---
 # 🛡️ Phishing Email Detection System
 
-🚀 Live Demo (https://phishing-email-detector-exngbwvrmklerggxixrr2r.streamlit.app/)
+🚀 Live Demo  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://phishing-email-detector-exngbwvrmklerggxixrr2r.streamlit.app/)
 
 An ML-powered phishing email detection system built with Python,
 Scikit-learn and Streamlit.
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://phishing-email-detector-exngbwvrmklerggxixrr2r.streamlit.app/)
 
 ---
 
